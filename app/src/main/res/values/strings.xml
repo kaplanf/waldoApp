@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WaldoApp</string>
+    <string name="loading">Loading..</string>
+    <string name="query_string">query { album(id: \"YWxidW06YTQwYzc5ODEtMzE1Zi00MWIyLTk5NjktMTI5NjIyZDAzNjA5\") { id name photos(slice: { limit: 100 }) { records { id urls { size_code url width height quality mime } } } } }</string>
+</resources>
